@@ -12,12 +12,12 @@ And if you manage to win in just 1 or 2 or 3 guesses, well then you score a perf
 
 Guesses     Score
 
-above 10     0
+above 10                                        0
 
-8 to 10      50
+8 to 10                                         50
 
-4 to 7       75
+4 to 7                                          75
 
-1 to 3       100
+1 to 3                                          100
 
 Hope you enjoy my work :)
