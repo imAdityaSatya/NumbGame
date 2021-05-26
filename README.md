@@ -11,9 +11,13 @@ Similarly you score 75 for taking 5 to 7 guesses to win
 And if you manage to win in just 1 or 2 or 3 guesses, well then you score a perfect 100
 
 Guesses     Score
+
 above 10     0
+
 8 to 10      50
+
 4 to 7       75
+
 1 to 3       100
 
 Hope you enjoy my work :)
