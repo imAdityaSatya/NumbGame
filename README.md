@@ -6,7 +6,7 @@ Let's see how many guesses you take to finally reach the correct number.
 
 Rules for SCORE:-
 
-So you will a zero only in case you took more than 10 guesses(or attempts)
+So you will score a zero only in case you took more than 10 guesses(or attempts)
 
 If you take 8 to 10 guesses to win, then you score 50
 
