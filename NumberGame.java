@@ -36,7 +36,6 @@ public class NumberGame {
 			int guess = Integer.parseInt(s);
 			return guess;
 		}catch(Exception e){
-			System.out.println("Invalid user input.");
 			return -1;
 		}
 	}
