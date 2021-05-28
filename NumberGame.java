@@ -1,4 +1,4 @@
-// Aditya Satya CSE-O 19410121063
+// It is a number guessing game made by Aditya
 import javax.swing.*; 
 public class NumberGame {
 
