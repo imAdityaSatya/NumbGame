@@ -15,4 +15,4 @@ Similarly you score 75 for taking 5 to 7 guesses to win
 And if you manage to win in just 1 or 2 or 3 guesses, well then you score a perfect 100
 
 
-Hope you enjoy my work :)
+Hope you like my work :)
