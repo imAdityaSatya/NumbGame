@@ -1,6 +1,8 @@
 # NumberGame
 It is number guessing game
+
 A window-based java application
+
 Built its GUI part using swing framework 
 
 
