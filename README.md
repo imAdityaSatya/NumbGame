@@ -1,11 +1,11 @@
 # NumberGame
-It is number guessing game
+- It is number guessing game
 
-A window-based java application
+- A window-based java application
 
-Built its GUI part using swing framework 
+- Built its GUI part using swing framework 
 
-
+------------------------------------------
 Your computer has chosen a random number between 1 and 100 and now its your turn to guess that. 
 As a clue, on each wrong guess you'll be told whether your guess is greater or lesser than the actual number which the computer has chosen.
 Let's see how many guesses you take to finally reach the correct number. 
