@@ -3,7 +3,7 @@
 
 - A window-based java application
 
-- Built its GUI part using swing framework 
+- Built its graphics part using swing framework 
 
 ------------------------------------------
 Your computer has chosen a random number between 1 and 100 and now its your turn to guess that. 
