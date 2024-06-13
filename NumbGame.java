@@ -2,7 +2,7 @@
  * NumbGame 2.0 : a number guessing game made by Aditya
  * It is basically a window-based application with its GUI built using swing framework in Java
  */
- 
+
 import javax.swing.JOptionPane;
 // import javax.swing.JButton;
 // import javax.swing.JFrame;
