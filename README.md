@@ -1,7 +1,9 @@
 # NumbGame
 
 • Developed a window-based number-guessing game application using Java 
+
 • Designed a GUI for enhanced gameplay experience using Swing framework
+
 • Incorporated input validation for robust and user-friendly error handling
 
 -----------------------------------------------------------------------------
@@ -15,10 +17,10 @@ Rules:
 4. Let's see how many guesses you take to find the correct number!
 
 Scoring:
-Score will be 0: for taking more than 10 guesses
-Score will be 50: for taking 8 to 10 guesses
-Score will be 75: for taking 4 to 7 guesses
-Score will be 100: for taking 1 to 3 guesses
+1. Score will be 0: for taking more than 10 guesses
+2. Score will be 50: for taking 8 to 10 guesses
+3. Score will be 75: for taking 4 to 7 guesses
+4. Score will be 100: for taking 1 to 3 guesses
 
 Good luck and have fun!
 
