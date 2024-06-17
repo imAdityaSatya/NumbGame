@@ -1,24 +1,25 @@
-# NumberGame
-- It is number guessing game
+# NumbGame
 
-- A window-based java application
+• Developed a window-based number-guessing game application using Java 
+• Designed a GUI for enhanced gameplay experience using Swing framework
+• Incorporated input validation for robust and user-friendly error handling
 
-- Built its graphics part using swing framework 
+-----------------------------------------------------------------------------
 
-------------------------------------------
-Your computer has chosen a random number between 1 and 100 and now its your turn to guess that. 
-As a clue, on each wrong guess you'll be told whether your guess is greater or lesser than the actual number which the computer has chosen.
-Let's see how many guesses you take to finally reach the correct number. 
+Welcome to the NumbGame 2.0
 
-Rules for SCORE:-
+Rules:
+1. The computer has chosen a number between 1 and 100.
+2. You have to try and guess that number.
+3. You'll be told if your guess is higher or lower than the actual number.
+4. Let's see how many guesses you take to find the correct number!
 
-So you will score a zero only in case you took more than 10 guesses(or attempts)
+Scoring:
+Score will be 0: for taking more than 10 guesses
+Score will be 50: for taking 8 to 10 guesses
+Score will be 75: for taking 4 to 7 guesses
+Score will be 100: for taking 1 to 3 guesses
 
-If you take 8 to 10 guesses to win, then you score 50
-
-Similarly you score 75 for taking 5 to 7 guesses to win   
-
-And if you manage to win in just 1 or 2 or 3 guesses, well then you score a perfect 100
-
+Good luck and have fun!
 
 Hope you like my work :)
