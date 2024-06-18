@@ -8,9 +8,9 @@ ____________________________________________________________________________
 
 How to Download NumbGame?
 
-Step-1 : Click on the "NumbGame.jar" file, located on the left of the "<--- Click there to Download" message.
+Step-1 : Click on the "NumbGame.jar" file, located on the left of "<--- Click there to Download" message.
 
-Step-2 : Click the "View Raw" link or "Raw" button. Or simply you just use the shortcut keys (Ctrl + Shift + S) to initiate the download.
+Step-2 : Click the "View Raw" link or "Raw" button. Alternatively, you can also use the shortcut keys (Ctrl + Shift + S) to initiate the download.
 
 Step-3 : Once your download is complete, click on the "NumbGame" icon and start playing.
 
