@@ -1,5 +1,4 @@
 # NumbGame
-
 • Developed a window-based number-guessing game application using Java 
 
 • Designed a GUI for enhanced gameplay experience using Swing framework
