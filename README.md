@@ -1,16 +1,16 @@
 # NumbGame
-• Developed a window-based number-guessing game application using Java 
+• Developed a window-based number-guessing game application with Java 
 
-• Designed a GUI for enhanced gameplay experience using Swing framework
+• Designed GUI for an enhanced gameplay experience using the Swing framework
 
-• Incorporated input validation for robust and user-friendly error handling
+• Integrated selectable difficulty levels with a structured game flow
 ____________________________________________________________________________
 
 How to Download NumbGame?
 
 Step-1 : Click on the "NumbGame.jar" file, located on the left of "<--- Click there to Download" message.
 
-Step-2 : Click the "View Raw" link or "Raw" button. Alternatively, you can also use the shortcut keys (Ctrl + Shift + S) to initiate the download.
+Step-2 : Click the "View Raw" or simply press (Ctrl + Shift + S) keys to initiate the download.
 
 Step-3 : Once your download is complete, click on the "NumbGame" icon and start playing.
 
