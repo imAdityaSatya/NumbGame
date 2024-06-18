@@ -21,7 +21,7 @@ Step-3 : Once your download is complete, click on the "NumbGame" icon and start 
 Welcome to the NumbGame 2.0
 
 Rules:
-1. The computer has chosen a number between 1 and 100.
+1. The computer has chosen a number between 1 and 100 (both inclusive).
 2. You have to try and guess that number.
 3. You'll be told if your guess is higher or lower than the actual number.
 4. Let's see how many guesses you take to find the correct number!
