@@ -5,8 +5,7 @@
 • Designed a GUI for enhanced gameplay experience using Swing framework
 
 • Incorporated input validation for robust and user-friendly error handling
-
------------------------------------------------------------------------------
+____________________________________________________________________________
 
 Welcome to the NumbGame 2.0
 
