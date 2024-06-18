@@ -1,9 +1,11 @@
 # NumbGame
-• Developed a window-based number-guessing game application with Java 
+• Developed a window-based number guessing game application in Java 
 
-• Designed GUI for an enhanced gameplay experience using the Swing framework
+• Designed GUI using the Swing framework for an enhanced experience
 
-• Integrated selectable difficulty levels with a structured game flow
+• Optimized and structured game flow to ensure seamless performance
+
+• Key Updates: selectable difficulty levels & documentation
 ____________________________________________________________________________
 
 How to Download NumbGame?
