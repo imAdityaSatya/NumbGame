@@ -6,6 +6,8 @@
 • Incorporated input validation for robust and user-friendly error handling
 ____________________________________________________________________________
 
+----------------------------------------------------------------------------
+
 Welcome to the NumbGame 2.0
 
 Rules:
